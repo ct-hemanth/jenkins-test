@@ -1,3 +1,3 @@
 <?php 
-ech "helllo bro"
+echo "helllo bro"
 ?>
